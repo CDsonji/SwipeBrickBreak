@@ -31,5 +31,10 @@
             <DropShadow />
          </effect>
       </Button>
+      <Label alignment="CENTER" layoutX="202.0" layoutY="418.0" prefHeight="84.0" prefWidth="233.0" text="HIGH SCORE 0" textAlignment="CENTER">
+         <font>
+            <Font name="Arial Bold" size="20.0" />
+         </font>
+      </Label>
    </children>
 </Pane>
