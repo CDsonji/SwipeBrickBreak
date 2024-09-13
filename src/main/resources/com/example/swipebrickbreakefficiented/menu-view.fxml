@@ -23,5 +23,13 @@
             <DropShadow />
          </effect>
       </Button>
+      <Button fx:id="history" layoutX="229.0" layoutY="309.0" mnemonicParsing="false" prefHeight="43.0" prefWidth="160.0" text="HISTORY">
+         <font>
+            <Font name="Arial Bold" size="20.0" />
+         </font>
+         <effect>
+            <DropShadow />
+         </effect>
+      </Button>
    </children>
 </Pane>
